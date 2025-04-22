@@ -14,7 +14,7 @@ jobs:
     - name: instalar compilador GCC
       run: gcc Github.c -o programa
   
-    - name Executar o programa
+    - name: Executar o programa
       run: ./programa
   
     - name: Executar testes automatizados
