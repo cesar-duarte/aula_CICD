@@ -2,7 +2,7 @@
 #include <assert.h>
 
 void testar() {
-  asserr(1==1);
+  assert(1==1);
   printf("Teste passou!\n");
 }
 
